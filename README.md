@@ -1,6 +1,6 @@
 # Process Rewards with Learned Reliability
 
-This repository provides the training, evaluation, and ACA inference code for the Beta-Binomial Process Reward Model (PRM) based on InternVL.
+> This repository provides the training, evaluation, and ACA inference code for the Beta-Binomial Process Reward Model (PRM) based on InternVL.
 
 ![Beta-Binomial PRM](images/Beta_Binomial_PRM.png)
 
