@@ -37,7 +37,7 @@ Place it at:
 datasets/Beta-Binomial-project/all_combined_beta_binom.jsonl
 ```
 
-The annotation file references VisualPRM400K images, so also place the image folders under:
+The annotation file references [VisualPRM400K images](https://huggingface.co/datasets/OpenGVLab/VisualPRM400K-v1.1-Raw), so also place the image folders under:
 
 ```bash
 datasets/VisualPRM400K-v1.1-Raw/
