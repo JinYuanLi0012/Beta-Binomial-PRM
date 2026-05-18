@@ -217,3 +217,27 @@ bash aca/scripts/run_aca.sh \
 ## Acknowledgements
 
 Our codebase and experimental pipeline are inspired by and built upon prior open-source efforts. In particular, we would like to thank the authors of [**MM-PRM**](https://github.com/ModalMinds/MM-PRM) for releasing their implementation, and the [**VisualPRM**](https://internvl.github.io/blog/2025-03-13-VisualPRM/) project for providing the model/data/benchmark ecosystem that greatly facilitated our research. We are very grateful for their excellent work.
+
+## 💬 Citation
+If our work is useful for you, please consider citing our paper:
+```
+@misc{li2026trainingdataefficiencymultimodal,
+      title={Training Data Efficiency in Multimodal Process Reward Models}, 
+      author={Jinyuan Li and Chengsong Huang and Langlin Huang and Shaoyang Xu and Haolin Liu and Wenxuan Zhang and Jiaxin Huang},
+      year={2026},
+      eprint={2602.04145},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2602.04145}, 
+}
+
+@misc{li2026processrewardslearnedreliability,
+      title={Process Rewards with Learned Reliability}, 
+      author={Jinyuan Li and Langlin Huang and Chengsong Huang and Shaoyang Xu and Donghong Cai and Yuyi Yang and Wenxuan Zhang and Jiaxin Huang},
+      year={2026},
+      eprint={2605.15529},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2605.15529}, 
+}
+```
